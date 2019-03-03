@@ -1,0 +1,2 @@
+# trbot
+Trading bot
